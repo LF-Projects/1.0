@@ -1,5 +1,6 @@
-# COVID Credientials Initiative Specifications Project
+# COVID Credentials Initiative Specifications Project
 
+The COVID Credentials Initiative Specification Project has been established as the COVID Credentials Initiative Specifications Project a Series of LF Projects, LLC ("CCI"). CCI is a project of the LF Publich Health Foundation.  Participation in the CCI is governed by the the documents set forth in this repository.
 
 ## Who developed the Community Specification
 
